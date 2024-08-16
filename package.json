@@ -1,0 +1,7 @@
+{
+  "name": "com.spenaloza.sdf-baker",
+  "version": "1.0.0",
+  "description": "A comprehensive Signed distance function baker tool that incorporates neural networks for fast volumetric rendering of arbitrary meshes",
+  "displayName": "SDF Baker",
+  "author": "Sergio Peñaloza"
+}
